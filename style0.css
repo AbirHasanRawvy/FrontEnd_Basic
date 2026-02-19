@@ -1,0 +1,39 @@
+p{
+    /* here blue and 50px is value  */
+    color: blue; 
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: red;
+    font-size: 50px;
+}
+
+/* class selector */
+.myClass{
+
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.myNewClass{
+
+    color: aquamarine;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+/* id selector  */
+#myId{
+    
+    color: aqua;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Group Selector  */
+
