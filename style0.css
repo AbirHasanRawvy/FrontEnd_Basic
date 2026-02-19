@@ -22,8 +22,14 @@ h1{
 
     color: aquamarine;
     font-size: 50px;
+    /* margin: 0;
+    padding: 0; */
+}
+*myNewClass{
+
     margin: 0;
     padding: 0;
+
 }
 
 /* id selector  */
@@ -36,4 +42,51 @@ h1{
 }
 
 /* Group Selector  */
+h2, h3, h4{
+    color: red;
+    font-size: 50px;
+    margin: 0%;
+    /* padding: 0%; */
+}
 
+/* child selector  */
+div > h2{
+    color: brown;
+    font-size: 50px;
+}
+
+
+div > section > h2 {
+    color: chartreuse;
+    font-size: 50px;
+    background-color: blue;
+}
+
+/* decendent selector  */
+div1  section  h2 {
+    color: chocolate;
+    font-size: 50px;
+    background-color: yellow;
+}
+
+
+.btn{
+    background-color: rgb(28, 174, 28);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.btn:hover{
+    background-color: grey;
+    color: black;
+    border-color: rgb(3, 27, 3);
+    padding: 20px 24px;
+    margin:  0;
+}
+
+.myClass1 h2:last-child {
+    color: red
+}
