@@ -1,1 +1,4 @@
 # FrontEnd_Basic
+# Getting Started
+First run the developement server: From index.html click on Open With Live Server<br>
+Open: http : (http://127.0.0.1:5500/index0.html) with your browser and go to the console part to see the result.
