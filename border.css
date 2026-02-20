@@ -41,9 +41,34 @@
 /* outsert type  */
 .box7{
     border: 20px outset red;
+    background-color: #fff;
 }
 
 /* none type  */
 .box8{
     border: none;
+}
+
+/*  manualy all the information modify  */
+.box9{
+    border-style: solid;
+    border-width: 5px 10px 5px 10px;
+    background-color: #fff;
+    border-color: red;
+    border-radius: 40px;
+
+}
+.box9:hover{
+    color: #fff;
+    background: #000;
+    border-color: chartreuse;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    border: 5px solid yellowgreen;
+
 }
