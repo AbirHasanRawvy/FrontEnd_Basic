@@ -1,0 +1,21 @@
+/* RGB  */
+.colors{
+    color: red;
+    background-color: rgb(57, 219, 57);
+    margin: 0%;
+    padding: 0%;
+}
+
+/* HEX  */
+.colors1{
+    color: #ff0000;
+    background-color:antiquewhite;
+    margin: 0%;
+    padding: 0%;
+}
+
+/* HSL  */
+.colors2{
+    color: hsl(20, 100%, 50%);
+    background-color:hsl(150, 100%, 80%);
+}
