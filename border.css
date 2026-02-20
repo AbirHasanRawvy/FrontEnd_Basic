@@ -1,0 +1,49 @@
+/* Border style, border width and border radious */
+
+/* Border Style */
+/* solid type  */
+.box{
+    /* //border : size type color; */
+    border: 2px solid red;  
+    margin: 0%;
+    padding: 0%;  
+}
+/* doted type*/
+.box1{
+    border: 5px dotted red;
+}
+
+/* dash type  */
+.box2{
+    border: 5px dashed red;
+}
+
+/* double type  */
+.box3{
+    border: 10px double greenyellow;
+}
+
+/* groove type*/
+.box4{
+    border: 10px groove peru;
+}
+
+/* ridge type  */
+.box5{
+    border: 20px ridge peachpuff;
+}
+
+/* insert type  */
+.box6{
+    border: 20px inset red;
+}
+
+/* outsert type  */
+.box7{
+    border: 20px outset red;
+}
+
+/* none type  */
+.box8{
+    border: none;
+}
