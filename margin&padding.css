@@ -1,4 +1,5 @@
 /* When create distance between one to another element its called margin */
+/* Margin */
 .box10{
     width: 200px;
     height: 100px;
@@ -15,4 +16,16 @@
     height: 100px;
     background-color: red;
     margin: auto;
+}
+
+/* What is ste padding: Empth place of the element; */
+/* padding */
+.box12{
+    width: 200px;
+    height: 100px;
+    /* color: skyblue; */
+    background-color: red;
+    margin: 10px 20px 20px 30px;
+    padding: 20px 20px 20px 20px;
+    border: 4px solid skyblue;
 }
