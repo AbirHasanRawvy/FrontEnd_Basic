@@ -1,0 +1,49 @@
+/* font Style  */
+/* generic and specefic  */
+.fontFamily{
+
+    font-family: "Arafat", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* font size */
+.fontSize20{
+    font-size: 100px;
+    
+    background: #000;
+    border: 5px solid red;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* font weight */
+.fontWeight{
+    font-weight: 700px;
+    
+    background: #000;
+    font-size: 100px;
+    border: 40px solid red;
+    margin: 10px;
+    padding: 10px;
+
+     font-style: oblique;
+}
+
+/* font style  */
+.fontStyling20{
+    font-weight: 700px;
+    background: #000;
+    font-size: 100px;
+    border: 40px solid red;
+    margin: 10px;
+    padding: 10px;
+
+    font-style: italic;
+
+
+
+}
