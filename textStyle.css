@@ -1,0 +1,46 @@
+
+/* text color, text alignment */
+.textStyle{
+    color: rgb(234, 145, 11);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.textStyle1{
+    color: aqua;
+    text-align: justify;
+}
+
+.textStyle2{
+    color: brown;
+    text-align: center;
+}
+
+.textStyle3{
+    color: burlywood;
+    text-align: right;
+    word-spacing: 10px;
+
+}
+
+.textStyle4{
+    color: burlywood;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.6;
+}
+
+.textStyle5{
+    color: red;
+    text-align: justify;
+    letter-spacing: 1.2px;
+    word-spacing: 3px;
+    line-height: 2;
+    border: 10px;
+    margin: 40px;
+    padding: 20%;
+    
+}
