@@ -1,0 +1,43 @@
+/* Google fonts: light weight */
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", serif;
+}
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.hello1{
+
+    color: salmon;
+    border: 20px solid salmon;
+}
+
+.hello2{
+    color: violet;
+    border: 20px outset violet;
+}
+
+.hello3{
+    color: red;
+    border: 20px outset red;
+    background: black;
+}
+
+.para1{
+    color: chocolate;
+    border: 20px inset chocolate;
+    background: black;
+}
+
+
+.para2{
+    color: chocolate;
+    border: 20px inset chocolate;
+    background: black;
+}
