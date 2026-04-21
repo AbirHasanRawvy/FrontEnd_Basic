@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: lowercase;
+    color: brown;
+    background: black;
+}
+
+h4 {
+    text-transform: capitalize;
+    color: brown;
+    background: skyblue;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+    background: salmon;
+}
+
+h5:hover {
+    text-decoration: underline;
+    color: salmon;
+    background: slateblue;
+}
+
+h6 {
+    text-align: center;
+    color: white;
+    background: red;
+}
+
+h6:hover {
+    text-decoration: overline;
+    color: red;
+    background: black;
+}
+
+.hello10 {
+
+    text-align: center;
+    color: white;
+    background: salmon;
+}
+
+.hello10:hover {
+    text-decoration: line-through;
+    color: red;
+    background: black;
+}
+
+.hello11 {
+    text-align: center;
+    text-decoration: overline;
+    /* text-decoration: line-through; */
+    color: red;
+    background: black;
+}
