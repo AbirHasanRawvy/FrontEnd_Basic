@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.para8{
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    border-color: aqua;
+    background-color: brown;
+}
+
+.para8:hover{
+
+    color: brown;
+    background: black;
+    text-decoration: line-through;
+    text-align: center;
+
+}
