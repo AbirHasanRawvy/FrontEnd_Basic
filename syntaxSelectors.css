@@ -1,0 +1,124 @@
+.para9 {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    background-color: blanchedalmond;
+}
+
+.para9:hover {
+
+    color: blanchedalmond;
+    background-color: blue;
+}
+
+.para10 {
+    color: aquamarine;
+    background-color: blueviolet;
+    font-size: 50px;
+    text-align: center;   
+}
+
+.para10:hover {
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+#id01 {
+    margin: 0;
+    padding: 0;
+    background-color: magenta;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+#id01:hover {
+    background-color: white;
+    color: magenta;
+    text-decoration: line-through;
+}
+
+#id02 {
+    margin: 0;
+    padding: 0;
+    color: yellow;
+    background-color: rgb(107, 98, 98);
+    text-align: center;
+    font-size: 50px;
+}
+
+#id02:hover {
+    background-color: yellow;
+    color: rgb(107, 98, 98);
+    text-decoration: line-through;
+    /* motion: toggle; */
+}
+
+div > h2 {
+    
+    
+    color: yellow;
+    background-color: darkblue;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+div > h1 {
+    color: blueviolet;
+    background-color: white;
+    font-size: 50px;
+    text-align: center;
+    border: 50px;
+}
+
+div > h1:hover{
+    color:white;
+    background-color: blueviolet;
+    
+    margin: 50;
+    bottom: 0;
+    font-size: 70px;
+}
+
+.btn1 {
+    background-color: #4caf50;
+    color: white;
+    padding: 14px 28px;
+    /* margin: 8px 0; */
+    /* border: none; */
+    cursor: pointer;
+    width: 20%;
+    border-color: white;
+    border-radius: 40px;
+}
+.btn1:hover{
+    background-color: white;
+    color: #4caf50;
+    /* border-radius: 60px; */
+    border-color: #4caf50;
+}
+
+.myClass h3:first-child{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: chocolate;
+    background-color: chartreuse;
+}
+
+.myClass h3:last-child{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+
+/* .myClass h3:{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+} */
