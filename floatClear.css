@@ -8,3 +8,15 @@ img {
     width: 350px;
     margin-right: 20px;
 }
+
+.box20{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+    margin: 10px;
+}
+
+.clearfix{
+   clear: both; 
+}
