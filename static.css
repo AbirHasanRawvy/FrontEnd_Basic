@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    bottom: 0;
+}
+
+.box21{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: static;
+}
